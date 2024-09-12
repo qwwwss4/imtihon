@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    border-radius: 20px ;
+    background-color: rgb(110, 110, 224);
+    border: 3px solid red;
+}
+.yashil{
+    color: green;
+
+}
+.qizil{
+    color: red;
+}
+.sariq{
+    color: yellow;
+}
+.oqroq{
+    color: rgba(119, 119, 119, 0.36);
+}
+.p1{
+    background-color: yellow;
+    color: rgb(2, 5, 8);
+    text-align: center;
+    margin-bottom: 0;
+}
+th {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+    background-color: red;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(154, 105, 200); 
+}
+.yoshil{
+    background-color: green;
+}
+.w1{
+    color: rgb(36, 36, 59);
+}
+.w2{
+    color: red;
+}
+button{
+    background-color: rgb(50, 255, 47);
+    text-align: center;
+    width: 15%;
+    border: none;
+}
+.div3{
+    width: 80%;
+}
+iframe{
+    width: 600px;
+    height: 450px;
+}
